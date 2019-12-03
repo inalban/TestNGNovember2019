@@ -1,0 +1,3 @@
+2019-12-02 18:18:04,533  INFO [main] LoginPageTest:34 - browser is launching...
+2019-12-02 18:18:12,346  INFO [main] LoginPageTest:38 - Setup is done
+2019-12-02 18:18:21,017  INFO [main] LoginPageTest:79 - logintest : correct user and correct pass
